@@ -1,0 +1,40 @@
+.myStyleF{
+    padding: 125px;
+    background-image: url("https://i2.wp.com/background4free.com/download/sky_blue_daytime_1845846857.jpg?q=100"); 
+    display: flex; 
+    justify-content: center;  
+    align-items: center;
+    color:rgb(34, 125, 211);
+    flex-direction: column;
+    border: 1px solid white;
+    font-family: 'Itim', cursive;
+
+}
+
+.myVi5{
+    font-family: 'Itim', cursive;
+    color:black;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    margin: 10;
+    padding: 10;
+  }
+  .myVi{
+    font-family: 'Itim', cursive;
+    color:black;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    flex-direction: column;
+    margin: 10;
+  }
+
+  .li5{
+    display: flex;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color:wheat;
+    font-family: 'Itim', cursive;
+}

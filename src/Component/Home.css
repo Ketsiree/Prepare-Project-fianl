@@ -1,0 +1,40 @@
+.myS{
+    font-family: 'Courgette', cursive;
+    color:black;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    margin: 10;
+    padding: 10;
+  }
+  .myS1{
+    font-family: 'Courgette', cursive;
+    color:black;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    margin: 10;
+    padding: 10;
+  }
+  .h{
+    padding: 125px;
+    background-image: url("https://cdn.statically.io/img/wallpaperaccess.com/full/1311126.png"); 
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    color:rgb(11, 9, 156);;
+    flex-direction: column;
+    border: 1px solid whitesmoke;
+    font-style: normal;
+    font-size: xx-large;
+    font-family: 'Carter One', cursive;
+  }
+  .Book1{
+    text-align: center;
+    display: flex; 
+    justify-content: center;  
+    color:#cc318b;
+    padding: 64px;
+    background-color:#bcf4e4;
+    font-family: 'Courgette', cursive;
+  }

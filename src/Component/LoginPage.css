@@ -1,0 +1,20 @@
+.container1 {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: blueviolet;
+    background-image: url("https://c.wallhere.com/photos/46/67/1920x1080_px_landscape_nature-1077075.jpg!d");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+    font-size:10vw;
+    font-family: 'Lobster', cursive;
+  }
+
+
+.pic {
+    height:100%;
+    width: 100%;
+  }
