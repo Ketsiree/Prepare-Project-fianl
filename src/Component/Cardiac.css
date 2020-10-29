@@ -1,0 +1,46 @@
+.myStyleSat{
+    padding: 125px;
+    background-image: url("https://2.bp.blogspot.com/-lknyoR9caiQ/Uj6lLgIO8uI/AAAAAAAAB2I/7Az-fGopCbM/s1600/Purple-Background-Wallpaper-HD.jpg"); 
+    display: flex; 
+    justify-content: center;  
+    align-items: center;
+    color:rgb(224, 212, 230);
+    flex-direction: column;
+    border: 1px solid white;
+    font-family: 'Itim', cursive;
+
+}
+.myVi6{
+    font-family: 'Itim', cursive;
+    color:black;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    margin: 10;
+    padding: 10;
+  }
+  .myVi{
+    font-family: 'Itim', cursive;
+    color:black;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    flex-direction: column;
+    margin: 10;
+  }
+
+  .li6{
+    display: flex;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color:rgb(218, 51, 22);
+    font-family: 'Itim', cursive;
+}
+
+.pic{
+    display: flex;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}

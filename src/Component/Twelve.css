@@ -1,0 +1,116 @@
+.myStyleW{
+    padding: 125px;
+    background-image: url("https://www.xmple.com/wallpaper/green-yellow-gradient-linear-2732x2048-c2-ffffe0-7fff00-a-195-f-14.svg"); 
+    display: flex; 
+    justify-content: center;  
+    align-items: center;
+    color:rgb(11, 121, 44);
+    flex-direction: column;
+    font-family: 'Itim', cursive;
+    border: 1px solid white;
+}
+
+.myVi1{
+  font-family: 'Itim', cursive;
+  color:black;
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  margin: 10;
+  padding: 10;
+}
+
+.li1{
+  display: flex;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  color:rgb(218, 51, 22);
+  font-family: 'Itim', cursive;
+}
+
+
+.myVi2{
+font-family: 'Itim', cursive;
+color:black;
+display: flex;
+justify-content: center;  
+align-items: center;
+margin: 10;
+padding: 10;
+}
+
+.li2{
+display: flex;
+text-align: center;
+display: flex;
+justify-content: center;
+color:rgb(24, 128, 168);
+font-family: 'Itim', cursive;
+}
+
+.myVi3{
+font-family: 'Itim', cursive;
+color:black;
+display: flex;
+justify-content: center;  
+align-items: center;
+margin: 10;
+padding: 10;
+}
+.li3{
+display: flex;
+text-align: center;
+display: flex;
+justify-content: center;
+color:white;
+font-family: 'Itim', cursive;
+}
+
+.myVi4{
+  font-family: 'Itim', cursive;
+  color:black;
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  margin: 10;
+  padding: 10;
+}
+.myVi{
+  font-family: 'Itim', cursive;
+  color:black;
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  flex-direction: column;
+  margin: 10;
+}
+
+.li4{
+  display: flex;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  color:black;
+  font-family: 'Itim', cursive;
+}
+
+.myVi5{
+font-family: 'Itim', cursive;
+color:black;
+display: flex;
+justify-content: center;  
+align-items: center;
+margin: 10;
+padding: 10;
+}
+
+.li5{
+display: flex;
+text-align: center;
+display: flex;
+justify-content: center;
+color:wheat;
+font-family: 'Itim', cursive;
+}
+

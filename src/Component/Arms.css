@@ -1,0 +1,86 @@
+.myStyleM{
+    padding: 125px;
+    background-image: url("https://images.unsplash.com/photo-1559251606-c623743a6d76?ixlib=rb-1.2.1&w=1000&q=80"); 
+    display: flex; 
+    justify-content: center;  
+    align-items: center;
+    color:rgb(184, 22, 49);
+    flex-direction: column;
+    font-family: 'Itim', cursive;
+    border: 1px solid white;
+    
+
+}
+.myVi1{
+    font-family: 'Itim', cursive;
+    color:black;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    margin: 10;
+    padding: 10;
+  }
+  .myVi{
+    font-family: 'Itim', cursive;
+    color:black;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    flex-direction: column;
+    margin: 10;
+  }
+
+  .li1{
+    display: flex;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color:rgb(218, 51, 22);
+    font-family: 'Itim', cursive;
+}
+
+
+.myVi2{
+  font-family: 'Itim', cursive;
+  color:black;
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  margin: 10;
+  padding: 10;
+}
+
+.li2{
+  display: flex;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  color:rgb(24, 128, 168);
+  font-family: 'Itim', cursive;
+}
+
+.myVi3{
+  font-family: 'Itim', cursive;
+  color:black;
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  margin: 10;
+  padding: 10;
+}
+.li3{
+  display: flex;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  color:white;
+  font-family: 'Itim', cursive;
+}
+
+.myVii{
+  font-family: 'Itim', cursive;
+  color:black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

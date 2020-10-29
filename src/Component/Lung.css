@@ -1,0 +1,39 @@
+.myStyleS{
+    padding: 125px;
+    background-image: url("https://i.pinimg.com/originals/36/eb/a6/36eba6308f711872ce0b7f353c7f6728.jpg"); 
+    display: flex; 
+    justify-content: center;  
+    align-items: center;
+    color:white;
+    flex-direction: column;
+    border: 1px solid white;
+    font-family: 'Itim', cursive;
+
+}
+.myVi7{
+    font-family: 'Itim', cursive;
+    color:black;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    margin: 10;
+    padding: 10;
+  }
+  .myVi{
+    font-family: 'Itim', cursive;
+    color:black;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    flex-direction: column;
+    margin: 10;
+  }
+
+  .li7{
+    display: flex;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-family: 'Itim', cursive;
+}
